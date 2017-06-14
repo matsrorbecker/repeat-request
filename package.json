@@ -1,0 +1,15 @@
+{
+  "name": "repeat-request",
+  "version": "0.0.1",
+  "description": "",
+  "main": "repeat-request.js",
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mats Rörbecker",
+  "license": "ISC"
+}
